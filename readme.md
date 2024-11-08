@@ -46,8 +46,8 @@ All backgrounds and character designs were created using AI tools and further re
 
 **Shay Marks** :
 
-[![GitHub](https://img.shields.io/badge/GitHub- Shay_Marks-black?style=flat&logo=github)](https://github.com/shaymarks)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn- Shay_Marks-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shay-marks-920546260/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=social&logo=github)](https://github.com/shaymarks)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/shay-marks-920546260/)
 
 ### Screenshots
 
